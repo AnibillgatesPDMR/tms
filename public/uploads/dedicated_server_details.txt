@@ -1,0 +1,28 @@
+
+Server Login : 
+
+User Name : pdmrltd
+Pwd : Pdmr@2020
+Ip Address : 151.106.39.79
+
+-----------------------------------------------------------------------
+
+FTP Details :
+------------
+Host : compu-ops.com
+User Name : compubooks@compu-ops.com
+Password : Compusbooks@2020!	
+Port : 21
+
+
+-----------------------------------------------------------------------
+
+Putty Details :
+---------------
+
+IP Address : 151.106.39.79
+User Name : root
+Password : Pdmr@2020!
+
+
+------------------------------------------------------------------------
